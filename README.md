@@ -15,3 +15,5 @@ A biologically inspired neural network built from scratch using NumPy — featur
 Clone this repository:
 
 ```bash
+
+https://github.com/RF-numan/bio-inspired-net.git
